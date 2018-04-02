@@ -191,10 +191,10 @@ module BW
     end
   end
 
-  Constants.register(
-    UIAlertViewStyleDefault,
-    UIAlertViewStylePlainTextInput,
-    UIAlertViewStyleSecureTextInput,
-    UIAlertViewStyleLoginAndPasswordInput
-  )
+  # Constants.register(
+  #   UIAlertViewStyleDefault,
+  #   UIAlertViewStylePlainTextInput,
+  #   UIAlertViewStyleSecureTextInput,
+  #   UIAlertViewStyleLoginAndPasswordInput
+  # )
 end
